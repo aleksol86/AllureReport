@@ -1,5 +1,6 @@
 HELP.md
 .gradle
+.allure
 rest/build/
 
 ### STS ###
