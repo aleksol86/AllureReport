@@ -19,6 +19,7 @@ public class AppCardDeliveryTest {
     static void setUpAllure() {
         SelenideLogger.addListener("allure", new AllureSelenide());
     }
+
     @AfterAll
     static void tearDownAllure() {
         SelenideLogger.removeListener("allure");
