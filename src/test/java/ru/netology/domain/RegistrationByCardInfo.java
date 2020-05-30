@@ -1,6 +1,5 @@
 package ru.netology.domain;
 
-import com.github.javafaker.PhoneNumber;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
 
